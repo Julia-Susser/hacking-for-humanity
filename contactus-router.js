@@ -48,7 +48,7 @@ app.post('/advocate-sub', function(req, res) {
       if (advocate_name === "Julia S"){
         var advocate_email = "juliasusser@gmail.com"
       }else if (advocate_name === "Phil S"){
-        var advocate_email = "rpsusser@gmail.com"
+        var advocate_email = "rpsusser@yahoo.com"
       }else{
         var advocate_email = "susserfamily@gmail.com"
       }
