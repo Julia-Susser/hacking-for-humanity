@@ -1,0 +1,72 @@
+
+body{
+  margin:0;
+  padding:0;
+  background-color:CornFlowerBlue
+}
+
+.topnav {
+  background-color: white;
+  overflow: hidden;
+  padding-left:0px;
+  /* hides overflow */
+}
+#logo{
+  width:400px;
+  height:100px;
+  padding-top:25px;
+  float:left;
+  padding-right:30%;
+  padding-left:15px;
+}
+/* Style the links inside the navigation bar */
+.home, .resume, .intern{
+  padding-right: 15px;
+  padding-top:70px;
+  padding-bottom:79px;
+  float: left;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1000px) {
+  .topnav{
+    padding-left:0px;
+  }
+  .home, .resume, .intern{
+    width:100%;
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:20px;
+
+  }
+
+  #logo{
+    display:none;
+  }
+}

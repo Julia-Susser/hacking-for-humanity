@@ -1,0 +1,19 @@
+<tr>
+                <td>Location</td>
+                <td>Hours</td>
+              </tr><tr>
+                <td>corner of Polk and O'Farrell</td>
+                <td>24</td>
+              </tr><tr>
+                <td>corner of Ellis and Larkin</td>
+                <td>24</td>
+              </tr><tr>
+                <td>Ellis Street between Jones and Taylor</td>
+                <td>24</td>
+              </tr><tr>
+                <td>corner of Taylor and Turk</td>
+                <td>24</td>
+              </tr><tr>
+                <td>Golden Gate between Leavenworth and Jones</td>
+                <td>24</td>
+              </tr>

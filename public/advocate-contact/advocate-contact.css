@@ -1,0 +1,32 @@
+body{
+  background-color: CornFlowerBlue;
+}
+#form{
+  margin-left: 100px;
+  width: 700px;
+  text-align: center;
+  background-color: lightgray;
+  border-radius: 25px;
+}
+#number{
+  width:500px;
+  height:50px;
+}
+.form-control{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width:500px;
+}
+#sub{
+  margin-bottom: 30px;
+  border: none;
+  background-color: black;
+  color:white;
+  font-size:25px;
+}
+@media (max-width: 700px) {
+  #form{
+  margin-left: 0px;
+  width:500px;
+}
+}

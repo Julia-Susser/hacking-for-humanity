@@ -1,0 +1,16 @@
+<tr>
+                <td>Programs</td>
+                <td>Date</td>
+              </tr><tr>
+                <td>Dinner</td>
+                <td>Tonight</td>
+              </tr><tr>
+                <td>Computer Lab</td>
+                <td>24/7</td>
+              </tr><tr>
+                <td>Meet a mentor</td>
+                <td>Special Today</td>
+              </tr><tr>
+                <td>Hygiene Kits</td>
+                <td>Passed out at 4 today</td>
+              </tr>
